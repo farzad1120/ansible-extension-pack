@@ -1,10 +1,15 @@
 {
   "name": "ansible-extension-pack",
   "displayName": "Ansible Extension Pack",
+  "publisher": "zarasvand",
   "description": "A powerful Ansible extension pack that streamlines infrastructure automation with reusable roles, playbooks, and productivity-enhancing tools for DevOps teams",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.99.0"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/farzad1120/ansible-extension-pack.git"
   },
   "categories": [
     "Extension Packs"
