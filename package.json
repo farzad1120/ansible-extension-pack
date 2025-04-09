@@ -4,6 +4,8 @@
   "publisher": "zarasvand",
   "description": "A powerful Ansible extension pack that streamlines infrastructure automation with reusable roles, playbooks, and productivity-enhancing tools for DevOps teams",
   "version": "1.0.0",
+  "homepage": "https://farzad.eu",
+  "icon": "assets/ansible-256.png",
   "engines": {
     "vscode": "^1.99.0"
   },
